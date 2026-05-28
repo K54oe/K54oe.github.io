@@ -1,0 +1,58 @@
+[
+  {
+    "id": "presentation-3",
+    "title": "Development of automatic aberration correction using 4D-STEM",
+    "titleJa": "Development of automatic aberration correction using 4D-STEM",
+    "speakers": "Konosuke Oe, Koidai Tabata, Takehito Seki, Yuji Kohno, Naoya Shibata",
+    "speakersJa": "Konosuke Oe, Koidai Tabata, Takehito Seki, Yuji Kohno, Naoya Shibata",
+    "conference": "4th Advanced Electron Microscopy Workshop for Young Scientists",
+    "conferenceJa": "4th Advanced Electron Microscopy Workshop for Young Scientists",
+    "date": "2026-03-16",
+    "year": "2026",
+    "place": "the Univ. of Tokyo",
+    "placeJa": "the Univ. of Tokyo",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-2",
+    "title": "電子顕微鏡観察における収差補正の歴史とその現状",
+    "titleJa": "電子顕微鏡観察における収差補正の歴史とその現状",
+    "speakers": "大江宏内介",
+    "speakersJa": "大江宏内介",
+    "conference": "第25回結晶界面研究会",
+    "conferenceJa": "第25回結晶界面研究会",
+    "date": "2025-09-11",
+    "year": "2025",
+    "place": "御殿場高原時の栖",
+    "placeJa": "御殿場高原時の栖",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-1",
+    "title": "４次元STEMデータに基づく収差測定法の開発",
+    "titleJa": "４次元STEMデータに基づく収差測定法の開発",
+    "speakers": "大江 宏内介, 田畑 浩大, 関 岳人, 柴田 直哉",
+    "speakersJa": "大江 宏内介, 田畑 浩大, 関 岳人, 柴田 直哉",
+    "conference": "日本顕微鏡学会 第81回学術講演会",
+    "conferenceJa": "日本顕微鏡学会 第81回学術講演会",
+    "date": "2025-06-09",
+    "year": "2025",
+    "place": "福岡国際会議場",
+    "placeJa": "福岡国際会議場",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-4",
+    "title": "4D-STEM データに基づく自動収差補正システムの開発と実機実証 ",
+    "titleJa": "4D-STEM データに基づく自動収差補正システムの開発と実機実証 ",
+    "speakers": "大江 宏内介, 田畑 浩大, 関 岳人, 河野　祐二, 柴田 直哉",
+    "speakersJa": "大江 宏内介, 田畑 浩大, 関 岳人, 河野　祐二, 柴田 直哉",
+    "conference": "日本顕微鏡学会 第82回学術講演会",
+    "conferenceJa": "日本顕微鏡学会 第82回学術講演会",
+    "date": "2025-05-25",
+    "year": "2025",
+    "place": "仙台国際センター",
+    "placeJa": "仙台国際センター",
+    "isInvited": false
+  }
+]
